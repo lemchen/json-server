@@ -2,7 +2,7 @@
 var faker = require('faker');
 var faker = require('faker/locale/zh_CN');
 
-function generateCustomers () {
+module.exports = () => {
   var customers = []
 
   for (var id = 0; id < 50; id++) {
@@ -22,6 +22,3 @@ function generateCustomers () {
 
   return { "customers": customers }
 }
-
-// 如果你要用json-server的话，就需要export这个生成fake data的function
-module.exports = generateCustomers
