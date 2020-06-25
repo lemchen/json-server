@@ -1,0 +1,26 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode", "date": "2020-05-14" },
+      { "id": 2, "title": "dotnet", "author": "lem", "date": "2020-04-16" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" },
+    "customers": [
+      { "id": 1, "name": "陈岩石", "phone": "13548564254", "birthday": "1995-05-02"},
+      { "id": 2, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 3, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 4, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 5, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 6, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 7, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 8, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 9, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 10, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 11, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 12, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 13, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"},
+      { "id": 21, "name": "陈石", "phone": "13587945635", "birthday": "1995-05-03"}
+    ]
+  }
